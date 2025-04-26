@@ -71,6 +71,11 @@ footer{
 
 }
 
+a{
+    text-decoration: none;
+    color:#F1F1F1;
+}
+
 .flask-app{
     margin-top: 20px;
 }
