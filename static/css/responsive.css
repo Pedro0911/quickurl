@@ -21,6 +21,39 @@
         font-size: 24px;
     
       }
+
+      #result{
+
+        display: flex;
+        flex-direction: column;
+    
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    #link_encurtado{
+      text-align: center;
+
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-style: normal;
+      font-size: 20px;
+    }
+
+    #short-url {
+      text-align: center;
+
+      font-family: "Montserrat", sans-serif;
+      font-optical-sizing: auto;
+      font-weight: 300;
+      font-style: normal;
+      font-size: 20px;
+  }
+
+
+
   }
 
 @media only screen and (max-width: 428px) {
@@ -51,6 +84,26 @@
         height: 35px;
         width: 170px;
       }
+
+      #link_encurtado{
+        text-align: center;
+  
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 18px;
+      }
+
+      #short-url {
+        text-align: center;
+  
+        font-family: "Montserrat", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 300;
+        font-style: normal;
+        font-size: 18px;
+    }
   }
 
 
