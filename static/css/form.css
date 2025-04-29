@@ -48,3 +48,32 @@
     border: #0059FF;
 
 }
+
+#copiar_colar{
+    margin-top: 24px;
+    height: 40px;
+    width:140px ;
+
+    background-color: #012465;
+    border: #0059FF;
+
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+    border-radius: 8px;
+    color: #F1F1F1;
+
+}
+
+#copiar_colar:hover{
+    height: 40px;
+    width:140px ;
+    cursor: pointer;
+
+    background-color: #1247A9;
+    border: #0059FF;
+
+}

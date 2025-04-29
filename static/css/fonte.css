@@ -43,4 +43,18 @@
     color: #0059FF;
   }
 
-  
+  #short-url {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 22px;
+}
+
+#link_encurtado{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 22px;
+}

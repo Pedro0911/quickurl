@@ -79,3 +79,15 @@ a{
 .flask-app{
     margin-top: 20px;
 }
+
+
+#result{
+
+    display: flex;
+    flex-direction: column;
+
+    align-items: center;
+    justify-content: center;
+}
+
+
